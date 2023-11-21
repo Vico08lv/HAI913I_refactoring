@@ -1,3 +1,10 @@
+/*
+La classe FermeAOeuf gère la vente d'oeuf et la collecte d'oeuf
+Possibilité d'extraire une classe poulailler qui peut s'occuper de la collecte d'oeuf
+des poules.
+*/
+
+
 package extractClass;
 
 public class FermeAOeufBase {
