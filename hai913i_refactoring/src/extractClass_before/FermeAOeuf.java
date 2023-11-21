@@ -5,9 +5,9 @@ des poules.
 */
 
 
-package extractClass;
+package extractClass_before;
 
-public class FermeAOeufBase {
+public class FermeAOeuf {
 
     private int oeufsALaVente = 0;
     private int oeufsCollectes = 0;

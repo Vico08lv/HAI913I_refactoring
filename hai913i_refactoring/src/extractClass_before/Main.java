@@ -1,11 +1,11 @@
-package extractClass;
+package extractClass_before;
 
 public class Main {
     public static void main(String[] args) {
 
 
         //Créé une ferme à oeufs
-        FermeAOeufBase ferme = new FermeAOeufBase();
+        FermeAOeuf ferme = new FermeAOeuf();
 
         //Ajoute des poules dans la ferme
         ferme.setNbPoules(10);
